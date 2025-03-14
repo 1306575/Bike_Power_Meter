@@ -10189,7 +10189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f025b709-d44c-4242-9921-82ea840b2ee5")
-		(property "Reference" "0.1uF3"
+		(property "Reference" "0.1uF"
 			(at 123.19 116.8399 0)
 			(effects
 				(font
@@ -10243,7 +10243,7 @@
 		(instances
 			(project ""
 				(path "/edabeeff-0186-4a5a-99ed-27c2963ab15f"
-					(reference "0.1uF3")
+					(reference "0.1uF")
 					(unit 1)
 				)
 			)
