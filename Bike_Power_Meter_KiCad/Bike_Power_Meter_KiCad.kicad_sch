@@ -8372,7 +8372,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "81afdbb5-56b1-4cff-a7de-eea8be157ba7")
-		(property "Reference" "0.1uF1"
+		(property "Reference" "C7"
 			(at 17.78 106.6801 0)
 			(effects
 				(font
@@ -8381,7 +8381,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 17.78 104.1401 0)
 			(effects
 				(font
@@ -8426,7 +8426,7 @@
 		(instances
 			(project ""
 				(path "/edabeeff-0186-4a5a-99ed-27c2963ab15f"
-					(reference "0.1uF1")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -9918,7 +9918,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da2843cf-c58b-41a9-8a9b-20223bd3e7e6")
-		(property "Reference" "0.1uF2"
+		(property "Reference" "C8"
 			(at 36.83 109.2199 0)
 			(effects
 				(font
@@ -9927,7 +9927,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 36.83 111.7599 0)
 			(effects
 				(font
@@ -9972,7 +9972,7 @@
 		(instances
 			(project ""
 				(path "/edabeeff-0186-4a5a-99ed-27c2963ab15f"
-					(reference "0.1uF2")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -10189,7 +10189,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f025b709-d44c-4242-9921-82ea840b2ee5")
-		(property "Reference" "0.1uF"
+		(property "Reference" "C9"
 			(at 123.19 116.8399 0)
 			(effects
 				(font
@@ -10198,7 +10198,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "0.1uF"
 			(at 123.19 119.3799 0)
 			(effects
 				(font
@@ -10243,7 +10243,7 @@
 		(instances
 			(project ""
 				(path "/edabeeff-0186-4a5a-99ed-27c2963ab15f"
-					(reference "0.1uF")
+					(reference "C9")
 					(unit 1)
 				)
 			)
